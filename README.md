@@ -16,8 +16,8 @@ In "gankin" mode, you can calculate repayment of capital equal system.
 If you use this one, you can keep total repayment low.
 
 # Example
-  
-・ganri
+ 
+```:ganri
 ##Input##
 python repayment.py ganri
 type the principal (yen): [PUT-PRINCIPAL-HERE]
@@ -28,8 +28,9 @@ time--repayment--interest--remains
 Every repayment: *** yen.
 Total repayment: *** yen.
  Total interest: *** yen.
+ ```
  
- ・gankin
+ ```:gankin
 ##Input##
 python repayment.py gankin
 type the principal (yen): [PUT-PRINCIPAL-HERE]
@@ -39,3 +40,4 @@ type the interest rate (%): [PUT-PERCENTAGE-HERE]
 time--repayment--interest--remains
 Total repayment: *** yen.
  Total interest: *** yen.
+```
