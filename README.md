@@ -2,8 +2,8 @@
 You can calculate the total repayment amount with interest rate.
 
 # How to use
-Type "python repayment.py [ganri] or [gankin]" on your command line.
-In both cases, you will be required to type the principal, the number of repayment, the interest rate.
+Type "python repayment.py [ganri] or [gankin]" on your command line.  
+In both cases, you will be required to type the principal, the number of repayment, the interest rate.  
 After it, a list of every set of the number and the repayment amount, the interest amount, the remains are displayed, and then the amount of every repayment and total repayment, total interest are displayed under the list.
 
 # Mode explanation
