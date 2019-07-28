@@ -15,6 +15,11 @@ If you want to repay same amount in every time until you complete payment, it's 
 In "gankin" mode, you can calculate repayment of capital equal system.
 If you use this one, you can keep total repayment low.
 
+# Install
+```
+git clone https://github.com/shion-0412/Interest-calculation.git
+```
+
 # Example
  
 ```:ganri
